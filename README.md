@@ -1,15 +1,10 @@
-README.md
-@@ -0,0 +1,44 @@
-# Aplicacion de Carrito de Compras
+# Aplicacion de Hamburgueseria(en proceso)
 
-Este proyecto es una implementación básica de un sistema de carrito de compras utilizando JavaScript orientado a objetos. La aplicación permite a los usuarios agregar productos a un carrito, calcular el total y finalizar la compra.
+Este proyecto es una implementación básica de una web para pedir a domicilio en mi pueblo.
 
 ## Estructura del Proyecto
 
-El proyecto incluye tres clases principales:
+El proyecto incluye dos ficheros principales:
 
-1. **Producto**: Representa un producto disponible para la compra.
-2. **Carrito**: Almacena productos y maneja las operaciones relacionadas con el carrito, como agregar productos y calcular el total.
-3. **Usuario**: Representa un usuario que puede tener un carrito asociado y realizar una compra.
-
-### Clases
+1. **Index**: Representa un producto disponible para la compra.
+2. **Carta**: Almacena productos y maneja las operaciones relacionadas con el carrito, como agregar productos y calcular el total(en proceso, aun tengo que subir la carta y cada tipo de hamburgesa).
